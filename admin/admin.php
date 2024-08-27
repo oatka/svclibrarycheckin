@@ -1,0 +1,1 @@
+<ul><li><a href="?logout">ออกจากระบบ</a></li></ul>
